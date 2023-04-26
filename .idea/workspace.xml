@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d41e7f-e8a6-423c-bf29-4164fb7d1269" name="Changes" comment="project created">
-      <change afterPath="$PROJECT_DIR$/src/test/java/queries/day2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+    <list default="true" id="e1d41e7f-e8a6-423c-bf29-4164fb7d1269" name="Changes" comment="sql day2 is created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/queries/day1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/queries/day1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/queries/day2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/queries/day2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681928874733</updated>
       <workItem from="1681928875987" duration="1741000" />
-      <workItem from="1682527338959" duration="3701000" />
+      <workItem from="1682527338959" duration="5933000" />
     </task>
     <task id="LOCAL-00001" summary="project created">
       <created>1681930017700</created>
@@ -70,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681930017700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sql day2 is created">
+      <created>1682531176180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682531176180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="project created" />
+    <MESSAGE value="sql day2 is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql day2 is created" />
   </component>
 </project>
