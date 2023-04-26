@@ -27,3 +27,4 @@ select SALARY from EMPLOYEES
 where SALARY != 2100;
 
 
+
