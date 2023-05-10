@@ -170,12 +170,31 @@ create table yogure(
     color char(15)
 );
 
-insert into yogure values (1,'fruit','blue');
-insert into yogure values (2,'mango','yello');
-insert into yogure values (3,'peach','pink');
+insert into yogure values (4,'fruit','blue');
+insert into yogure values (5,'mango','yello');
+insert into yogure values (6,'peach','pink');
+insert into yogure values (7,'new fruit','pink');
 
 select * from yogure;
+select * from iceCream;
 
 select taste from iceCream
 union
 select taste from yogure;
+
+select color from iceCream
+union
+select color from yogure;
+
+select color from iceCream
+union all
+select color from yogure;
+
+select color from iceCream
+intersect
+select color from yogure;
+
+select color from iceCream
+minus
+select color from yogure;
+
